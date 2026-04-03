@@ -1,17 +1,13 @@
 <div align="center">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-
 <br/>
 
-<!-- WORKING header banner - capsule-render is reliable -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=IkramCaffoor&fontSize=75&color=0,0,0,255&fontColor=FFFFFF&desc=Red%20Team%20%7C%20Offensive%20Security%20%7C%20CTF%20Competitor&descSize=18&descAlignY=75&animation=fadeIn&stroke=00FF41&strokeWidth=2"/>
-
+<!-- Glitch-style header banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=IkramCaffoor&fontSize=75&color=0,0,0,255&fontColor=00FF41&desc=GLITCH%20OPERATIVE%20%7C%20RED%20TEAM%20%7C%20OFFENSIVE%20SECURITY&descSize=18&descAlignY=75&animation=fadeIn&stroke=00FF41&strokeWidth=2"/>
 <br/>
 
-<!-- Typing animation - green terminal style -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Red+Team+%7C+Offensive+Security+Focus+%F0%9F%94%B4;CTF+Competitor+%F0%9F%9A%A9;Breaking+Things+Ethically+%F0%9F%94%93;Always+Learning%2C+Always+Hacking...)](https://git.io/typing-svg)
-
+<!-- Typing animation - green terminal / glitch style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=GLITCH%20IN%20THE%20MATRIX%20%F0%9F%94%8C;Red%20Team%20Operative%20%F0%9F%94%B4;CTF%20Breaker%20%F0%9F%9A%A9;Exploiting%20Systems%20Ethically%20%F0%9F%94%93;Always%20Hacking%2C%20Never%20Sleeping...)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social Badges -->
@@ -19,51 +15,36 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/2143373)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://ikramcaffoor.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkramCaffoor)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/IkramCaffoor?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d0d0d)](https://github.com/IkramCaffoor?tab=followers)
-
 <br/>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-
 </div>
-
 <br/>
 
 ## 🖥️ `whoami`
-
 ```bash
-┌──(IkramCaffoor㉿kali)-[~]
+┌──(glitch㉿kali)-[~]
 └─$ cat profile.txt
-
-  ██╗██╗  ██╗██████╗  █████╗ ███╗   ███╗
+  ██╗██╗ ██╗██████╗ █████╗ ███╗ ███╗
   ██║██║ ██╔╝██╔══██╗██╔══██╗████╗ ████║
   ██║█████╔╝ ██████╔╝███████║██╔████╔██║
   ██║██╔═██╗ ██╔══██╗██╔══██║██║╚██╔╝██║
-  ██║██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║
-  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-
-  [*] Name     : Ikram Caffoor
-  [*] Role     : Cybersecurity Enthusiast | Red Team Focus
-  [*] Status   : CTF Competitor & Offensive Security Learner
-  [*] Focus    : Penetration Testing | Linux Systems | Web Exploitation
-  [*] Mission  : Motivated and detail-oriented individual with a strong
-                 interest in offensive security and Linux systems.
-  [*] HTB      : https://app.hackthebox.com/profile/2143373
-  [*] Web      : https://ikramcaffoor.github.io/Portfolio/
-
-  [+] Currently : Hunting flags & breaking things ethically 🔓
-  [+] Learning  : Advanced Red Team Tactics & Exploit Development
-  [+] Goal      : OSCP Certified Penetration Tester
-```
-
-<br/>
-
-<div align="center">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-</div>
+  ██║██║ ██╗██║ ██║██║ ██║██║ ╚═╝ ██║
+  ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝
+  [*] Handle : Ikram Caffoor
+  [*] Role   : Glitch Operative | Red Team Focus
+  [*] Status : CTF Breaker & Offensive Security Ghost
+  [*] Focus  : Penetration Testing | Linux Exploitation | Web Attacks
+  [*] Mission: Breaking systems ethically. Hunting flags in the shadows.
+  [*] HTB    : https://app.hackthebox.com/profile/2143373
+  [*] Web    : https://ikramcaffoor.github.io/Portfolio/
+  [+] Currently : In the matrix, exploiting weaknesses 🔓
+  [+] Learning  : Advanced Red Team Tactics & Zero-Day Crafting
+  [+] Goal      : OSCP | Living off the land like a ghost
 
 <br/>
 
