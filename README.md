@@ -4,24 +4,28 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=IkramCaffoor&fontSize=70&color=gradient&customColorList=0,2,2,5,30&desc=Red%20Team%20%7C%20Offensive%20Security%20%7C%20CTF&descSize=18&descAlignY=75&animation=fadeIn&fontColor=FF0000&stroke=FF0000&strokeWidth=1"/>
+<!-- WORKING header banner - capsule-render is reliable -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=IkramCaffoor&fontSize=75&color=0,0,0,255&fontColor=FFFFFF&desc=Red%20Team%20%7C%20Offensive%20Security%20%7C%20CTF%20Competitor&descSize=18&descAlignY=75&animation=fadeIn&stroke=00FF41&strokeWidth=2"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Red+Team+%7C+Offensive+Security+Focus;CTF+Competitor+%F0%9F%9A%A9;Breaking+Things+Ethically+%F0%9F%94%93;Always+Learning%2C+Always+Hacking...)](https://git.io/typing-svg)
+<!-- Typing animation - green terminal style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Red+Team+%7C+Offensive+Security+Focus+%F0%9F%94%B4;CTF+Competitor+%F0%9F%9A%A9;Breaking+Things+Ethically+%F0%9F%94%93;Always+Learning%2C+Always+Hacking...)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikramcafoor)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/2143373)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ikramcaffoor.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://ikramcaffoor.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkramCaffoor)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=red&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/IkramCaffoor?label=Followers&style=for-the-badge&color=red&labelColor=0d0d0d)](https://github.com/IkramCaffoor?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/IkramCaffoor?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d0d0d)](https://github.com/IkramCaffoor?tab=followers)
 
+<br/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 
 </div>
@@ -50,8 +54,9 @@
   [*] HTB      : https://app.hackthebox.com/profile/2143373
   [*] Web      : https://ikramcaffoor.github.io/Portfolio/
 
-  [+] Currently: Hunting flags & breaking things ethically 🔓
-  [+] Learning : Advanced Red Team Tactics & Exploit Development
+  [+] Currently : Hunting flags & breaking things ethically 🔓
+  [+] Learning  : Advanced Red Team Tactics & Exploit Development
+  [+] Goal      : OSCP Certified Penetration Tester
 ```
 
 <br/>
@@ -77,14 +82,14 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=linux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=00FF41)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -128,7 +133,7 @@
 <tr>
 <td width="50%">
 
-### 🔴 Red Team
+### 🟢 Red Team
 ```
 [+] Penetration Testing
 [+] Social Engineering
@@ -167,16 +172,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0d0d0d&stroke=ff0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<!-- Stats card - green terminal theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d0d0d&count_private=true&include_all_commits=true" width="49%"/>
+
+<!-- Streak card - use this working alternative URL -->
+<img src="https://streak-stats.demolab.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d0d0d&stroke=00FF41&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkramCaffoor&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="40%"/>
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkramCaffoor&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="42%"/>
 
 <br/><br/>
 
-[![IkramCaffoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IkramCaffoor&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&area_color=330000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity graph - verified working service -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IkramCaffoor&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&area_color=003300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -192,7 +202,8 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IkramCaffoor&theme=darkhub&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy - works once you have some GitHub activity -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=IkramCaffoor&theme=matrix&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -205,6 +216,8 @@
 <br/>
 
 ## 🐍 Contribution Snake
+
+> ⚠️ **Setup required:** Go to your repo → Settings → Actions → General → Workflow permissions → Enable **Read and write permissions** → then run the snake workflow from the Actions tab.
 
 <div align="center">
 
@@ -237,7 +250,7 @@
 </a>
 &nbsp;
 <a href="https://ikramcaffoor.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00FF41?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://github.com/IkramCaffoor">
@@ -249,8 +262,8 @@
 ```
 ┌──(IkramCaffoor㉿kali)-[~]
 └─$ echo "Thanks for visiting. Stay curious, stay ethical. 🔐"
-
-  Thanks for visiting. Stay curious, stay ethical. 🔐
+Thanks for visiting. Stay curious, stay ethical. 🔐
+  
 
 ┌──(IkramCaffoor㉿kali)-[~]
 └─$ █
