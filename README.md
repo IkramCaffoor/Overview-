@@ -1,78 +1,212 @@
-# Overview
 <div align="center">
 
-<!-- Neon line top -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 
-<!-- Typing SVG - hacker style -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=IkramCaffoor;Red+Team+%7C+Offensive+Security;CTF+Competitor+%F0%9F%9A%A9;Breaking+Things+Ethically+%F0%9F%94%93)](https://git.io/typing-svg)
+<br/>
 
-<!-- Hacker GIF -->
-<img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="300"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=IkramCaffoor&fontSize=70&color=gradient&customColorList=0,2,2,5,30&desc=Red%20Team%20%7C%20Offensive%20Security%20%7C%20CTF&descSize=18&descAlignY=75&animation=fadeIn&fontColor=FF0000&stroke=FF0000&strokeWidth=1"/>
 
----
+<br/>
 
-### 💀 `whoami`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Red+Team+%7C+Offensive+Security+Focus;CTF+Competitor+%F0%9F%9A%A9;Breaking+Things+Ethically+%F0%9F%94%93;Always+Learning%2C+Always+Hacking...)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikramcafoor)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/2143373)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ikramcaffoor.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkramCaffoor)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=red&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/IkramCaffoor?label=Followers&style=for-the-badge&color=red&labelColor=0d0d0d)](https://github.com/IkramCaffoor?tab=followers)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🖥️ `whoami`
 
 ```bash
 ┌──(IkramCaffoor㉿kali)-[~]
-└─$ cat about.txt
+└─$ cat profile.txt
 
-  > Cybersecurity Enthusiast | Red Team Focus | CTF Competitor
-  > Motivated and detail-oriented individual with a strong interest
-    in offensive security & Linux systems.
-  > Currently hunting flags and breaking things ethically 🔓
+  ██╗██╗  ██╗██████╗  █████╗ ███╗   ███╗
+  ██║██║ ██╔╝██╔══██╗██╔══██╗████╗ ████║
+  ██║█████╔╝ ██████╔╝███████║██╔████╔██║
+  ██║██╔═██╗ ██╔══██╗██╔══██║██║╚██╔╝██║
+  ██║██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║
+  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+  [*] Name     : Ikram Caffoor
+  [*] Role     : Cybersecurity Enthusiast | Red Team Focus
+  [*] Status   : CTF Competitor & Offensive Security Learner
+  [*] Focus    : Penetration Testing | Linux Systems | Web Exploitation
+  [*] Mission  : Motivated and detail-oriented individual with a strong
+                 interest in offensive security and Linux systems.
+  [*] HTB      : https://app.hackthebox.com/profile/2143373
+  [*] Web      : https://ikramcaffoor.github.io/Portfolio/
+
+  [+] Currently: Hunting flags & breaking things ethically 🔓
+  [+] Learning : Advanced Red Team Tactics & Exploit Development
 ```
 
----
+<br/>
 
-### ⚔️ Arsenal / Tools
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<br/>
 
-<!-- Security Tools -->
+## ⚔️ Red Team Arsenal
+
+<div align="center">
+
+### 🐧 Operating Systems
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🛠️ Offensive Security Tools
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashnode&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- CTF Platforms -->
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎯 CTF & Training Platforms
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![CTFtime](https://img.shields.io/badge/CTFtime-003366?style=for-the-badge&logo=target&logoColor=white)
 
----
+</div>
 
-### 📡 Areas of Interest
+<br/>
 
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🎯 Attack Surface & Skills
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    OFFENSIVE CAPABILITIES                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [████████████████████░░░░]  Web Application Pentesting   80%   ║
+║  [█████████████████░░░░░░░]  Network Reconnaissance        70%  ║
+║  [████████████████░░░░░░░░]  Linux Privilege Escalation    65%  ║
+║  [███████████████░░░░░░░░░]  CTF Challenges                60%  ║
+║  [████████████░░░░░░░░░░░░]  Exploit Development           50%  ║
+║  [██████████░░░░░░░░░░░░░░]  Malware Analysis              40%  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+## 🔍 Areas of Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 Red Team
 ```
 [+] Penetration Testing
-[+] Red Team Operations
-[+] CTF Challenges (pwn, web, crypto, forensics)
-[+] Linux & Network Security
-[+] Vulnerability Research
+[+] Social Engineering
+[+] Network Exploitation
+[+] Web Application Attacks
+[+] Post-Exploitation
+[+] Lateral Movement
 ```
 
----
+</td>
+<td width="50%">
 
-### 📊 GitHub Stats
+### 🔐 Security Research
+```
+[+] Vulnerability Research
+[+] CTF Competitions
+[+] Reverse Engineering
+[+] Binary Exploitation
+[+] Cryptography Challenges
+[+] OSINT Techniques
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0d0d0d&stroke=ff0000&sideLabels=ffffff&dates=888888" width="48%"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkramCaffoor&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d"/>
+<br/>
 
----
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
 
-### 🏆 Trophies
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IkramCaffoor&theme=darkhub&no-bg=true&margin-w=4&title_color=ff0000)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Intelligence
 
----
+<div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api?username=IkramCaffoor&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IkramCaffoor&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0d0d0d&stroke=ff0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkramCaffoor&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="40%"/>
+
+<br/><br/>
+
+[![IkramCaffoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IkramCaffoor&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&area_color=330000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IkramCaffoor&theme=darkhub&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkramCaffoor/IkramCaffoor/output/github-snake-dark.svg"/>
@@ -80,12 +214,54 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/IkramCaffoor/IkramCaffoor/output/github-snake-dark.svg"/>
 </picture>
 
----
+</div>
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=IkramCaffoor&color=red&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
-<!-- Neon line bottom -->
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🌐 Connect & Infiltrate
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ikramcafoor">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://app.hackthebox.com/profile/2143373">
+  <img src="https://img.shields.io/badge/HackTheBox-View%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927"/>
+</a>
+&nbsp;
+<a href="https://ikramcaffoor.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF0000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/IkramCaffoor">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+┌──(IkramCaffoor㉿kali)-[~]
+└─$ echo "Thanks for visiting. Stay curious, stay ethical. 🔐"
+
+  Thanks for visiting. Stay curious, stay ethical. 🔐
+
+┌──(IkramCaffoor㉿kali)-[~]
+└─$ █
+```
+
+<br/>
+
+*"The quieter you become, the more you are able to hear." — Kali Linux*
+
+<br/>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 
 </div>
