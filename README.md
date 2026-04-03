@@ -260,7 +260,7 @@
 <br/><br/>
 
 ```
-┌──(IkramCaffoor㉿kali)-[~]
+   ┌──(IkramCaffoor㉿kali)-[~]
 └─$ echo "Thanks for visiting. Stay curious, stay ethical. 🔐"
 Thanks for visiting. Stay curious, stay ethical. 🔐
   
