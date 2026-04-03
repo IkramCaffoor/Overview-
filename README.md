@@ -2,11 +2,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 <br/>
 
-<!-- Glitch-style header banner -->
+<!-- Glitch Cyber Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=IkramCaffoor&fontSize=75&color=0,0,0,255&fontColor=00FF41&desc=GLITCH%20OPERATIVE%20%7C%20RED%20TEAM%20%7C%20OFFENSIVE%20SECURITY&descSize=18&descAlignY=75&animation=fadeIn&stroke=00FF41&strokeWidth=2"/>
 <br/>
 
-<!-- Typing animation - green terminal / glitch style -->
+<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=GLITCH%20IN%20THE%20MATRIX%20%F0%9F%94%8C;Red%20Team%20Operative%20%F0%9F%94%B4;CTF%20Breaker%20%F0%9F%9A%A9;Exploiting%20Systems%20Ethically%20%F0%9F%94%93;Always%20Hacking%2C%20Never%20Sleeping...)](https://git.io/typing-svg)
 <br/>
 
@@ -23,6 +23,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 </div>
+
 <br/>
 
 ## 🖥️ `whoami`
@@ -42,11 +43,9 @@
   [*] Mission: Breaking systems ethically. Hunting flags in the shadows.
   [*] HTB    : https://app.hackthebox.com/profile/2143373
   [*] Web    : https://ikramcaffoor.github.io/Portfolio/
-  [+] Currently : In the matrix, exploiting weaknesses 🔓
-  [+] Learning  : Advanced Red Team Tactics & Zero-Day Crafting
-  [+] Goal      : OSCP | Living off the land like a ghost
-
-<br/>
+  [+] Currently : In the matrix, exploiting weaknesses ![hacking](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+  [+] Learning  : Advanced Red Team Tactics & Zero-Day Crafting ![learning](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+  [+] Goal      : OSCP | Living off the land like a ghost ![ghost](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ## ⚔️ Red Team Arsenal
 
